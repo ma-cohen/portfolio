@@ -1,8 +1,8 @@
 # Portfolio
 
-##Matan Cohen - portfolio app
+## Matan Cohen - portfolio app
 
-###Using:
+### Using:
 * Django REST framework
 * Postgres Database
 * React
