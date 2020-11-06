@@ -64,7 +64,7 @@ pyreadline==2.1
 pyroma==2.2
 pyrsistent==0.17.3
 pytz==2020.4
-pywin32
+
 PyYAML==3.13
 radon==1.4.0
 regex==2020.10.15
