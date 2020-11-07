@@ -30,3 +30,6 @@ ul li a{
     margin-right: 20px;
 }
 
+.project-link:hover{
+background-color: #007bff30;
+}
