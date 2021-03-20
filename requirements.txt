@@ -37,7 +37,7 @@ imagesize==1.2.0
 importlib-metadata==2.0.0
 ipython-genutils==0.2.0
 isort==4.3.21
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.17.0
 jsonschema==3.2.0
 jupyter-core==4.6.3
