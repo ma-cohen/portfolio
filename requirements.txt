@@ -21,7 +21,7 @@ cpplint==1.5.4
 decorator==4.4.2
 dennis==0.9
 dependency-management==0.4.0
-Django==3.0.8
+Django==3.1.13
 python-dotenv
 docopt==0.6.2
 docutils==0.16
